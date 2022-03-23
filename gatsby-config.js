@@ -9,7 +9,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-netlify-identity`,
       options: {
-        url: `https://thescienceseed-demo.ml` // required!
+        url: `https://kaleidoscopic-tartufo-4c9e93.netlify` // required!
       }
     },
     {
